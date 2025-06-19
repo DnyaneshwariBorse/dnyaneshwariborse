@@ -6,7 +6,7 @@
 
 ---
 
-### 😇 Who am I?
+### 😇 about me 
 
 - 🎓 Second-Year IT Student at PICT, Pune (2023–2027)
 - 💡 Passionate about **Web Development**, **Problem-Solving**, and **UI/UX Design**
