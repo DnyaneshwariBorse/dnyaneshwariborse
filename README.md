@@ -8,7 +8,7 @@
 
 ### 😇 about me 
 
-- 🎓 Second-Year IT Student at PICT, Pune (2023–2027)
+- 🎓 Third-Year IT Student at PICT, Pune (2023–2027)
 - 💡 Passionate about **Web Development**, **Problem-Solving**, and **UI/UX Design**
 - 🚀 Exploring the **MERN Stack** & building exciting personal projects
 - ✍️ Love expressing through **technical blogs** and creating things with code
