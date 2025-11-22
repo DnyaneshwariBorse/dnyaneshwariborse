@@ -22,12 +22,7 @@
 
 ---
 
-### 🧿 About Me  
-- 🔭 I’m currently working on **MERN Stack & Full-Stack Projects**  
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**  
-- 💬 Ask me about **Frontend, Backend, DSA, SQL, React**  
-- 📫 Reach me at **dnyaneshwariborse12@gmail.com**  
-- ⚡ Fun fact: *I love building clean UIs & solving logical problems!*
+
 
 ---
 
