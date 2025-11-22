@@ -62,9 +62,9 @@
 
 ---
 
-## 🐍 Snake Animation  
+## 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/dist/github-contribution-grid-snake-dark.svg" />
 
 ---
 
