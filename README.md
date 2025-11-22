@@ -18,6 +18,75 @@
 
 ---
 
+
+
+---
+
+### 🧿 About Me  
+- 🔭 I’m currently working on **MERN Stack & Full-Stack Projects**  
+- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**  
+- 💬 Ask me about **Frontend, Backend, DSA, SQL, React**  
+- 📫 Reach me at **dnyaneshwariborse12@gmail.com**  
+- ⚡ Fun fact: *I love building clean UIs & solving logical problems!*
+
+---
+
+## 🔗 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/dnyaneshwari-borse" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+<a href="https://github.com/DnyaneshwariBorse" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+</a>
+<a href="https://codechef.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=codechef" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,postman" />
+</p>
+
+---
+
+## 🧩 Coding Profiles  
+<p align="left">
+<img src="https://img.icons8.com/color/48/codechef.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DnyaneshwariBorse&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnyaneshwariBorse&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎨 Illustration  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakshig711/Sakshig711/main/assets/coding-girl.gif" width="350"/>
+</p>
+
+---
+
+## ✨ Quote  
+> "Keep learning, keep building — your future self will thank you."
+
+
+
 ### 💼 Projects
 
 | Project | Description | Demo |
