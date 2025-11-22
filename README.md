@@ -68,11 +68,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnyaneshwariBorse&layout=compact&theme=tokyonight" />
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Snake Animation
 
-![snake gif](https://github.com/DnyaneshwariBorse/DnyaneshwariBorse/blob/output/github-contribution-grid-snake.svg)
-****
----
+![GitHub Snake Light](https://raw.githubusercontent.com/DnyaneshwariBorse/DnyaneshwariBorse/output/github-contribution-grid-snake.svg)
+
 
 ## 🎨 Illustration  
 <p align="center">
