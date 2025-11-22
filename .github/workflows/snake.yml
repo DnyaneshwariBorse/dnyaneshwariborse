@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,15 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation (Dark Theme)
+      - name: Generate Snake (Dark + Correct Path)
         uses: Platane/snk@v3
         with:
           github_user_name: "DnyaneshwariBorse"
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg
 
-      - name: Commit Snake Files to output branch
+      - name: Upload Snake Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: output
