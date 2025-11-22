@@ -11,18 +11,10 @@
 - 🎓 Third-Year IT Student at PICT, Pune (2023–2027)  
 - 💡 Passionate about **Web Development**, **Problem-Solving**, and **UI/UX Design**  
 - 🚀 Exploring the **MERN Stack** & building exciting personal projects  
-- ✍️ Love expressing through **technical blogs** and creating things with code  
-- 🎯 Currently focused on sharpening my **DSA & system design** skills  
+- ✍️ Love expressing through **technical blogs** and bringing ideas to life through code  
+- 🎯 Currently sharpening my **DSA & system design** skills  
 
 🧠 *“Curiosity, consistency, and compassion fuel every great journey.”*
-
----
-
-
-
----
-
-
 
 ---
 
@@ -68,11 +60,13 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnyaneshwariBorse&layout=compact&theme=tokyonight" />
 </p>
 
-## 🐍 Snake Animation
+---
 
-![snake gif](https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/github-contribution-grid-snake.svg)
-)
+## 🐍 Snake Animation  
 
+<img src="https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+---
 
 ## 🎨 Illustration  
 <p align="center">
@@ -84,7 +78,7 @@
 ## ✨ Quote  
 > "Keep learning, keep building — your future self will thank you."
 
-
+---
 
 ### 💼 Projects
 
@@ -95,6 +89,3 @@
 > 🔗 *Explore more on [my GitHub](https://github.com/dnyaneshwariborse)*
 
 ---
-
-
-
