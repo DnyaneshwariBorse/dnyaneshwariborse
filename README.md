@@ -70,7 +70,8 @@
 
 ## 🐍 Snake Animation
 
-![GitHub Snake Light](https://raw.githubusercontent.com/DnyaneshwariBorse/DnyaneshwariBorse/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/github-contribution-grid-snake.svg)
+)
 
 
 ## 🎨 Illustration  
