@@ -64,7 +64,7 @@
 
 ## 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/dist/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/DnyaneshwariBorse/dnyaneshwariborse/output/dist/snake-dark.svg" />
 
 ---
 
