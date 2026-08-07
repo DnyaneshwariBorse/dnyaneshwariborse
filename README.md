@@ -8,7 +8,7 @@
 
 ### 😇 About Me
 
-- 🎓 fourth  IT Student at PICT, Pune (2023–2027)  
+- 🎓 fourth year  IT Student at PICT, Pune (2023–2027)  
 - 💡 Passionate about **Web Development**, **Problem-Solving**  
 - 🚀 Exploring the **MERN Stack** & building exciting personal projects  
 - ✍️ Love expressing through **technical blogs** and bringing ideas to life through code  
